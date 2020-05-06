@@ -24,6 +24,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -43,5 +44,16 @@
       <screen x="-2560" y="22" width="2560" height="1418" />
     </state>
     <state x="-1699" y="340" width="838" height="1032" key="search.everywhere.popup/-2560.22.2560.1418/0.22.2560.1418@-2560.22.2560.1418" timestamp="1588729297798" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vue-router-auth/src/router/index.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
