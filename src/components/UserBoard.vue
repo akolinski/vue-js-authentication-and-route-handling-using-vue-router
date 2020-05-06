@@ -6,13 +6,13 @@
 </template>
 
 <script>
-  export default {
-    data() {
-      return {
-        msg: 'The commoners'
-      }
+export default {
+  data() {
+    return {
+      msg: 'The commoners'
     }
   }
+}
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
